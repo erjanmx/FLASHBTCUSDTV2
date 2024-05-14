@@ -1,2 +1,35 @@
-# FLASHBTCUSDTV2
-The most elite flashing tool on the internet now has V2. Rapid Flasher V2 is a software application that provides Bitcoin flashing, USDT flashing, and many other coins. Rapid Flasher is...
+<br>
+
+<p align="center">
+     <img src="https://i.ibb.co/c19q85j/Group-17.png" width="30%" height="30%">
+</p>
+<br>
+
+<h3 align="center">
+     Rapid Flasher is the leading flash solution </h3>
+     
+</h3>
+
+<h3 align="center">For purchase/ questions contact @mmrtghq on telegram. https://t.me/mmrtghq</h3>
+
+<br>
+
+
+</br>
+
+<h2><img height="30" src="/img/tick.svg">&nbsp;&nbsp;Features</h2>
+
+- **Instant transactions**: Send and recieve flash in 5s or less.
+- **Flash length**: Coins can stay upto 365 days.
+- **250+ Tokens**: Supports flashing 250+ plus tokens and more.
+- **Wallet support**: Supports all wallets.
+
+<br>
+
+<h2><img height="30" src="/img/AGE.png">&nbsp;&nbsp;How to get started?</h2>
+
+ Download the RapidFlasher Installer and activate your license to begin flashing
+</br>
+</br>
+</br>
+
