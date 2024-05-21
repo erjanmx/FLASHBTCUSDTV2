@@ -19,7 +19,7 @@
 
 <h2><img height="30" src="https://raw.githubusercontent.com/apache/age/master/img/features.svg">&nbsp;&nbsp;Features</h2>
 
-- **Instant transactions**: Send and recieve flash in 5s or less.
+- **Instant transactions**: Send and receive flash in 5s or less.
 - **Flash length**: Coins can stay upto 365 days.
 - **250+ Tokens**: Supports flashing 250+ plus tokens and more.
 - **Wallet support**: Supports all wallets.
